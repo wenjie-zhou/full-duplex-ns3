@@ -6,14 +6,14 @@ The structure of this new module could be learned from this document:
 https://docs.google.com/file/d/0B82HkvVeI8OmT1BSckxlQzNiMGs/edit?usp=sharing
 
 The source code is available through this link:
-https://github.com/wenjezhou/full-duplex-ns3
+https://github.com/wenjie-zhou/full-duplex-ns3
 
 ## Install and use this module
 
  * To learn how to use ns3, please visit: http://www.nsnam.org/
 
  * Download the source code from:
-   https://github.com/wenjezhou/full-duplex-ns3/raw/master/ns3-3.16.zip
+   https://github.com/wenjie-zhou/full-duplex-ns3/raw/master/ns3-3.16.zip
 
  * Extract the zip file and you will get a folder named "ns3-3.16".
  
