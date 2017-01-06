@@ -20,7 +20,7 @@ https://github.com/wenjie-zhou/full-duplex-ns3
  * Config and then compile ns3 using:
  
           cd ns3-3.16
-          ./waf -d debug configure --enable-examples --enable-tests
+          bash configure_debug
           ./waf
 
 That's it! Now you can use the full-duplex module (located at `src/full`).
